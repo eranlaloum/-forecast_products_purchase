@@ -1,0 +1,11 @@
+{
+  "store_url": "https://wolt.com/he/isr/tel-aviv/market/wolt-market-tel-aviv",
+  "headless": false,
+  "slow_mo": 80,
+  "session_file": "~/.wolt_session.json",
+  "output_dir": "wolt_output",
+  "max_search_results": 15,
+  "element_timeout": 8000,
+  "min_relevance_score": 0.3,
+  "dry_run": false
+}
